@@ -17,13 +17,13 @@ Welcome to my personal portfolio website! This is a responsive and dynamic web a
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/K9XRZh0)
+![App Screenshot](https://imagizer.imageshack.com/img924/506/Ul65yj.png)
 
 
 ## 🧑‍💻 Skills Showcased
 Languages & Frameworks:
 HTML5, CSS3, JavaScript (ES6+), SASS
-Tools & Platforms:
+## Tools & Platforms:
 Git, GitHub, Node.js, VS Code
 Design:
 Responsive Web Design, UX/UI Principles, Modular SASS
@@ -43,7 +43,7 @@ Responsive Web Design, UX/UI Principles, Modular SASS
 ## 🤝 Contact
 Feel free to reach out if you have any questions, suggestions, or collaboration ideas!
 --
-Email: Chiragtank1971@gmail.com
-GitHub: Chirag-Tank1971
-LinkedIn: CHIRAG TANK
-Portfolio Website: your-website.com
+- Email: Chiragtank1971@gmail.com
+- GitHub: Chirag-Tank1971
+- LinkedIn: CHIRAG TANK
+- Portfolio Website: your-website.com
